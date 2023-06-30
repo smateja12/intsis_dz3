@@ -1,1 +1,5 @@
-# intsis_dz3
+# Inteligentni sistemi, Elektrotehnicki fakultet, Univerzitet u Beogradu, Softversko inzenjerstvo
+
+**Domaci 3**
+
+Reading data using concepts of machine learning

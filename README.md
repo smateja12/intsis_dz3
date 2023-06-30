@@ -2,4 +2,4 @@
 
 **Domaci 3**
 
-Reading data using concepts of machine learning
+Reading data using concepts of Machine Learning(ML)
